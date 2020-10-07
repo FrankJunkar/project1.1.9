@@ -9,11 +9,11 @@ Basic Brainstorming Rules
 
 
 Write a list below of all the ideas your team came up with.
-•
-•
-•
-•
-•
+• Video game
+• Move turtle around with keys to eat stuff
+• Obstacles appear
+• Have to avoid them
+• We didn't really come up with anything else
 •
 •
 •
@@ -24,7 +24,9 @@ Write a list below of all the ideas your team came up with.
 
 
 Chosen Idea:
+What was listed above; I just went first and, as far as I can tell, we just all kind of agreed on that.
 
 Add a new file called "sketch.jpg" to your GitHub project of a scretch of your chosen idea.
 
 Why did you group chose this idea? In other words, why was this idea evaluated higher than your other ideas. Explain with at least 3 sentences.
+It was quite simple, actually.  I just went first, and I'm not sure whether anyone else had any other ideas or whether they just liked mine the best, but I mostly only remember Aiden talking with me about it.  He said that he thought the idea was pretty cool, and I guess we just decided that that would be our project.
