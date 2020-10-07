@@ -1,0 +1,14 @@
+make the turtle start at the bottom
+
+make it so that turtle can move with arrow keys
+
+make little dots appear
+
+make score counter for whenever turtle is within some 
+x distance of a dot, and make that dot disappear
+
+eventually, make little obstacles appear and move around
+
+increase number of obstacles
+
+once person collides with obstacles, end the game and print final score
